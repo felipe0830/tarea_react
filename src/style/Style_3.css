@@ -1,0 +1,25 @@
+/* styles.css */
+
+/* Contenedor del carrusel */
+.carousel-container {
+    overflow: hidden;
+    width: 100%;
+  }
+  
+  /* Slide del carrusel */
+  .carousel-slide {
+    display: flex;
+  }
+  
+  /* Imagen del carrusel */
+  .carousel-image {
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  /* Clase para mostrar la imagen actual */
+  .active {
+    display: block;
+  }
+  

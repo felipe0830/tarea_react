@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* Estilos para las imágenes */
+  img {
+    width: 200px; /* Tamaño pequeño */
+    height: auto;
+    margin: 10px; /* Espacio entre imágenes */
+  }
